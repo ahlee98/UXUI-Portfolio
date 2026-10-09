@@ -1,7 +1,7 @@
 // 인트로 → 원형 배치 → 아래로 내려와 호(arc)로 회전. 데이터는 content.json(= content/*.md).
 // 위치 계산은 render()가 매 프레임 담당하고, GSAP는 상태 값(S, 각 프로젝트의 k)만 움직인다.
-import { mountPhone } from './phone.js?v=860fb733';
-import { createLensGL } from './lensgl.js?v=860fb733';
+import { mountPhone } from './phone.js?v=e41fda37';
+import { createLensGL } from './lensgl.js?v=e41fda37';
 const { home, projects } = await (await fetch('./content.json', { cache: 'no-store' })).json();
 const filters = (home.filters ?? '').split(' / ').filter(Boolean).map(s => { const [name, color] = s.split('='); return { name: name.trim(), color: color?.trim() }; });
 const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -664,7 +664,7 @@ async function openPage(o, direct = false) {   // direct: Next Project로 넘어
     host.dataset.visible = '0';
     const tio = new IntersectionObserver(([e]) => { host.dataset.visible = e.isIntersecting ? '1' : '0'; }, { root: dp, threshold: 0.3 });
     tio.observe(host);
-    const { mountTablet } = await import('./oiooi-proto.js?v=860fb733');
+    const { mountTablet } = await import('./oiooi-proto.js?v=e41fda37');
     if (!host.isConnected) return;
     const handle = mountTablet(host, { tour: host.dataset.tour, caption: false, signIn: false });
     pageCleanups.push(() => { tio.disconnect(); handle.stop(); });

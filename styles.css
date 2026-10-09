@@ -95,6 +95,9 @@ body.compact .hero-title .pill-window, body.compact .hero-title .pill-box { font
 
 /* 인트로: 분야별 색 화면이 아래에서 올라오며 바뀌고, 가운데 알약(pill)이 글자에 맞춰 늘고 줄어든다 */
 .intro { position: fixed; inset: 0; z-index: 20; pointer-events: none; }
+/* 메인 화면 오른쪽 아래 작은 캡션(인트로·상세 화면에 가려진다) */
+.made-with { position: fixed; right: 20px; bottom: 16px; z-index: 2; margin: 0; font-size: 12px; letter-spacing: -.01em; color: var(--ink); opacity: .35; pointer-events: none; }
+@media (max-width: 640px) { .made-with { right: 0; left: 0; bottom: 12px; text-align: center; font-size: 11px; } }
 .panel { position: absolute; inset: 0; clip-path: inset(100% 0 0 0); will-change: clip-path; }
 .pill {
   position: absolute; left: 50%; top: 50%; z-index: 10;

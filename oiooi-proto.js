@@ -3,7 +3,7 @@
 // 1366×1024 캔버스를 컨테이너 너비에 맞춰 축소하고, tour가 있으면 가상 커서가 흐름을 시연한다.
 // 사용자가 태블릿을 누르거나 올려 두면 시연을 멈추고, 손을 떼고 잠시 지나면 처음부터 다시 시연한다.
 // (web-02: 1차 포트폴리오 web/dist/oiooi-proto.js에서 가져옴. 화면 밖이면 시연을 쉬고(host.dataset.visible='0'), 반환값의 stop()으로 완전히 멈춘다)
-import { ICON } from './oiooi-proto-icons.js?v=860fb733';
+import { ICON } from './oiooi-proto-icons.js?v=e41fda37';
 
 const IMG = new URL('./assets/oiooi-proto/', import.meta.url).href;
 const W = 1366, H = 1024;
