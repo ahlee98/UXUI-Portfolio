@@ -1,0 +1,929 @@
+{
+  "home": {
+    "name": "Ahhyun Lee",
+    "title": "Ahhyun Lee",
+    "filters": "UIUX Design=#4380EE / Interaction&Graphic Design=#FF3D00 / UX Research=#00E06C",
+    "intro": "",
+    "sections": []
+  },
+  "projects": [
+    {
+      "id": "01_project",
+      "title": "하나은행 아이부자",
+      "category": "UIUX Design",
+      "year": "2026",
+      "client": "Hana Bank",
+      "role": "UX Consultant",
+      "period": "2026",
+      "scope": "Research · Concept Plan · User Flow/IA · Wireframe",
+      "folder": "ibuja",
+      "intro": "<p>하나은행 미성년자 금융 서비스 '아이부자'의 12세 이후 이탈을 해결하는 UX 컨설팅을 수행했습니다. UI 개편을 준비하던 고객사의 요청에서 출발해, 문제를 '아이부자만의 역할 부재'로 재정의하고 이를 해결하는 전략을 도출했습니다.</p>",
+      "sections": [],
+      "detail": [
+        {
+          "kind": "대표",
+          "half": false,
+          "images": [
+            "assets/content/ibuja/01.jpg"
+          ],
+          "ref": "ibuja/01.jpg",
+          "fields": {
+            "제목": [
+              "Hana Bank Ibuja Consulting"
+            ],
+            "태그": [
+              "UX Strategy / UX/UI Design / AX"
+            ],
+            "역할": [
+              "UX Consultant"
+            ],
+            "범위": [
+              "Research · Concept Plan · User Flow/IA · Wireframe"
+            ],
+            "클라이언트": [
+              "Hana Bank"
+            ],
+            "연도": [
+              "2026"
+            ],
+            "소개": [
+              "하나은행 미성년자 금융 서비스 '아이부자'의 12세 이후 이탈을 해결하는 / UX 컨설팅을 수행했습니다. UI 개편을 준비하던 고객사의 요청에서 출발해, / 문제를 '아이부자만의 역할 부재'로 재정의하고 이를 해결하는 전략을 도출했습니다."
+            ]
+          }
+        },
+        {
+          "kind": "와이드",
+          "half": false,
+          "images": [
+            "assets/content/ibuja/02.jpg"
+          ],
+          "ref": "ibuja/02.jpg",
+          "fields": {
+            "글": [
+              "이해관계자 12명 인터뷰와 협력설계 워크숍을 통해 / 서비스 개선을 위한 핵심 문제 및 방향성을 정의했습니다."
+            ]
+          }
+        },
+        {
+          "kind": "3단",
+          "half": false,
+          "images": [
+            "assets/content/ibuja/03.png"
+          ],
+          "ref": "ibuja/03.png",
+          "fields": {
+            "글": [
+              "AI WIKI를 통해 / 협업 체계를 구축하고,",
+              "바이브코딩 기반으로 / 정성데이터 분석툴을 제작 및 활용했으며,",
+              "서비스 기획 및 검증을 / 효율적으로 수행했습니다."
+            ],
+            "모바일": [
+              "첫 단 숨김"
+            ]
+          }
+        },
+        {
+          "kind": "컨셉",
+          "half": 2,
+          "images": [],
+          "ref": "",
+          "fields": {
+            "라벨": [
+              "Concept"
+            ],
+            "글": [
+              "자녀의 금융 성장에 따라 / 쓰기에서 모으기, 투자하기, 자산관리로 / 확장되는 경험"
+            ],
+            "도형": [
+              "Spend / Save / Invest"
+            ]
+          }
+        },
+        {
+          "kind": "아이콘",
+          "half": 2,
+          "images": [
+            "assets/content/ibuja/Visual.png",
+            "assets/content/ibuja/Visual-1.png",
+            "assets/content/ibuja/Visual-2.png",
+            "assets/content/ibuja/Visual-3.png",
+            "assets/content/ibuja/Visual-4.png",
+            "assets/content/ibuja/Visual-5.png"
+          ],
+          "ref": "ibuja/Visual.png / ibuja/Visual-1.png / ibuja/Visual-2.png / ibuja/Visual-3.png / ibuja/Visual-4.png / ibuja/Visual-5.png",
+          "fields": {
+            "라벨": [
+              "Icon Style"
+            ]
+          }
+        },
+        {
+          "kind": "프로토타입",
+          "half": false,
+          "images": [],
+          "ref": "ibuja",
+          "fields": {}
+        },
+        {
+          "kind": "와이드",
+          "half": false,
+          "images": [
+            "assets/content/ibuja/05.jpg"
+          ],
+          "ref": "ibuja/05.jpg",
+          "fields": {}
+        }
+      ],
+      "image": "assets/content/ibuja/cover.jpg",
+      "hover": "assets/content/ibuja/01.jpg"
+    },
+    {
+      "id": "02_project",
+      "title": "디지털 휴먼",
+      "category": "UX Research",
+      "year": "2025",
+      "client": "한국연구재단",
+      "role": "UX Researcher",
+      "period": "2024.05 — 2025.07",
+      "scope": "Research / Persona / Strategy",
+      "folder": "digital-human",
+      "intro": "<p>디지털 휴먼의 가상성과 상호작용성이 Z세대의 피지털 리테일 경험에 미치는 영향을 연구한 프로젝트입니다. 실험과 통계 분석을 바탕으로 디지털 휴먼 페르소나 설계 전략을 제안했습니다.</p>",
+      "sections": [],
+      "detail": [
+        {
+          "kind": "대표",
+          "half": false,
+          "images": [
+            "assets/content/digital-human/01.jpg"
+          ],
+          "ref": "digital-human/01.jpg",
+          "fields": {
+            "제목": [
+              "AI Digital Human UX Strategy"
+            ],
+            "태그": [
+              "AI / UX Strategy / UX Research"
+            ],
+            "역할": [
+              "Senior Researcher"
+            ],
+            "범위": [
+              "Research · AI Prototype · Survey · UX Strategy"
+            ],
+            "클라이언트": [
+              "ADR (SCOPUS 등재지 투고)"
+            ],
+            "연도": [
+              "2025"
+            ],
+            "소개": [
+              "디지털 휴먼의 가상성과 상호작용성이 Z세대의 피지털 리테일 경험에 미치는 영향을 연구했습니다. / 가상성이 다른 두 디지털 휴먼과 상호작용 수준이 다른 두 환경을 배경으로 인터랙티브 실험물을 만들고, / 정량 통계 분석을 바탕으로 디지털 휴먼 페르소나 설계 전략을 제안했습니다."
+            ],
+            "소개색": [
+              "흰색"
+            ]
+          }
+        },
+        {
+          "kind": "와이드",
+          "half": 2,
+          "images": [
+            "assets/content/digital-human/02.jpg"
+          ],
+          "ref": "digital-human/02.jpg",
+          "fields": {
+            "글": [
+              "Virtuality Low Digital Human Allisa"
+            ],
+            "글색": [
+              "흰색"
+            ]
+          }
+        },
+        {
+          "kind": "와이드",
+          "half": 2,
+          "images": [
+            "assets/content/digital-human/03.jpg"
+          ],
+          "ref": "digital-human/03.jpg",
+          "fields": {
+            "글": [
+              "Virtuality High Digital Human Nova"
+            ],
+            "글색": [
+              "흰색"
+            ]
+          }
+        },
+        {
+          "kind": "와이드",
+          "half": 2,
+          "images": [
+            "assets/content/digital-human/04.jpg"
+          ],
+          "ref": "digital-human/04.jpg",
+          "fields": {
+            "글": [
+              "Interaction Level Low Device"
+            ],
+            "글색": [
+              "어둡게"
+            ]
+          }
+        },
+        {
+          "kind": "와이드",
+          "half": 2,
+          "images": [
+            "assets/content/digital-human/05.jpg"
+          ],
+          "ref": "digital-human/05.jpg",
+          "fields": {
+            "글": [
+              "Interaction Level High Device"
+            ],
+            "글색": [
+              "어둡게"
+            ]
+          }
+        },
+        {
+          "kind": "와이드",
+          "half": false,
+          "images": [
+            "assets/content/digital-human/06.jpg"
+          ],
+          "ref": "digital-human/06.jpg",
+          "fields": {}
+        },
+        {
+          "kind": "와이드",
+          "half": false,
+          "images": [
+            "assets/content/digital-human/07.jpg"
+          ],
+          "ref": "digital-human/07.jpg",
+          "fields": {}
+        },
+        {
+          "kind": "와이드",
+          "half": false,
+          "images": [
+            "assets/content/digital-human/08.png"
+          ],
+          "ref": "digital-human/08.png",
+          "fields": {
+            "글": [
+              "결과적으로 피지털 경험 요인에 따른 / 디지털 휴먼 페르소나 전략 프레임워크를 / 제안했습니다."
+            ],
+            "모바일 영역": [
+              "14 / 96.8"
+            ]
+          }
+        }
+      ],
+      "image": "assets/content/digital-human/cover.jpg",
+      "hover": "assets/content/digital-human/01.jpg"
+    },
+    {
+      "id": "03_project",
+      "title": "이응이",
+      "category": "UIUX Design",
+      "year": "2024",
+      "client": "OIOIOOI (KIDP)",
+      "role": "UX Consultant",
+      "period": "2024 (7개월)",
+      "scope": "User Research / Concept Plan / UI Design",
+      "folder": "ieungi",
+      "intro": "<p>유아 교구 브랜드 이응이의 판매 부진을 다룬 서비스 디자인 컨설팅입니다. 사용자 조사로 문제를 다시 정의하고, 디지털 플랫폼 전략부터 UI 디자인까지 7개월간 수행했습니다.</p>",
+      "sections": [],
+      "detail": [
+        {
+          "kind": "대표",
+          "half": false,
+          "images": [
+            "assets/content/ieungi/01.jpg"
+          ],
+          "ref": "ieungi/01.jpg",
+          "fields": {
+            "제목": [
+              "OIOIOOI Consulting"
+            ],
+            "태그": [
+              "UX Strategy / UX Research / UX/UI Design / Hi-fi Prototyping"
+            ],
+            "역할": [
+              "UX Consultant"
+            ],
+            "범위": [
+              "User Research · Concept Plan · Co-creation Workshop · IA · UI Design · Service Roadmap"
+            ],
+            "클라이언트": [
+              "OIOIOOI (KIDP)"
+            ],
+            "연도": [
+              "2024"
+            ],
+            "소개": [
+              "유아 교구 브랜드 이응이의 판매 부진 문제를 해결하기 위해 서비스 디자인 컨설팅을 수행했습니다. / 부모, 아이, 교사를 아우르는 사용자 조사로 고객사가 보지 못한 원인을 찾아 문제를 다시 정의하고, / 교구의 가치를 전달할 디지털 플랫폼 전략부터 UI 디자인까지 7개월간 수행했습니다."
+            ],
+            "글색": [
+              "흰색"
+            ],
+            "판색": [
+              "#ECE0D2"
+            ]
+          }
+        },
+        {
+          "kind": "와이드",
+          "half": 2,
+          "images": [
+            "assets/content/ieungi/02.jpg"
+          ],
+          "ref": "ieungi/02.jpg",
+          "fields": {
+            "글": [
+              "부모, 아이, 교사 대상 / 사용자 조사를 통해 / 문제를 발견하고"
+            ],
+            "글색": [
+              "어둡게"
+            ]
+          }
+        },
+        {
+          "kind": "와이드",
+          "half": 2,
+          "images": [
+            "assets/content/ieungi/03.jpg"
+          ],
+          "ref": "ieungi/03.jpg",
+          "fields": {
+            "글": [
+              "이해관계자와 함께 워크숍을 진행하여 / 아이디어 우선순위와 / 로드맵을 구체화했습니다."
+            ],
+            "글색": [
+              "어둡게"
+            ]
+          }
+        },
+        {
+          "kind": "4칸",
+          "half": 2,
+          "images": [],
+          "ref": "",
+          "fields": {
+            "칸": [
+              "Concept : 아이들에게 지속가능한 / 학습 경험을 제공하는 / 피지털 서비스",
+              "Step 2 : 성취감 및 동기 제공",
+              "Step 1 : 맞춤화 콘텐츠 개발",
+              "Step 3 : 참여형 학습 경험"
+            ]
+          }
+        },
+        {
+          "kind": "와이드",
+          "half": 2,
+          "images": [
+            "assets/content/ieungi/04.gif"
+          ],
+          "ref": "ieungi/04.gif",
+          "fields": {}
+        },
+        {
+          "kind": "와이드",
+          "half": false,
+          "images": [
+            "assets/content/ieungi/05.jpg"
+          ],
+          "ref": "ieungi/05.jpg",
+          "fields": {
+            "배경": [
+              "#FFFAE6"
+            ],
+            "폭": [
+              "54.1%"
+            ]
+          }
+        },
+        {
+          "kind": "태블릿",
+          "half": false,
+          "images": [
+            "assets/content/%EC%9D%B4%EC%9D%91%EC%9D%B4%20%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85"
+          ],
+          "ref": "이응이 프로토타입",
+          "fields": {
+            "배경": [
+              "#F3DEBF"
+            ],
+            "폭": [
+              "54.35%"
+            ],
+            "비율": [
+              "1840:1080"
+            ],
+            "시연": [
+              "onboard"
+            ]
+          }
+        }
+      ],
+      "image": "assets/content/ieungi/cover.jpg",
+      "hover": "assets/content/ieungi/01.jpg"
+    },
+    {
+      "id": "04_project",
+      "title": "감정 시각화",
+      "category": "Interaction&Graphic Design",
+      "year": "2023",
+      "client": "Personal Project",
+      "role": "Interaction · Graphic Designer",
+      "period": "2023",
+      "scope": "Concept / Graphic Motif / Generative Visual / UI Design",
+      "folder": "feelora",
+      "intro": "<p>말로 설명하기 어려운 감정을 움직이는 그래픽으로 기록하는 감정 시각화 서비스 Feelora입니다. 여섯 가지 기본 감정을 그래픽 모티프로 정의하고, 사용자가 직접 조절해 자신만의 감정 그래픽을 만드는 경험을 설계했습니다.</p>",
+      "sections": [],
+      "detail": [
+        {
+          "kind": "대표",
+          "half": false,
+          "images": [
+            "assets/content/feelora/01.jpg"
+          ],
+          "ref": "feelora/01.jpg",
+          "fields": {
+            "제목": [
+              "Feelora Emotion Visualization"
+            ],
+            "태그": [
+              "UI Design / Graphic Design / Publishing"
+            ],
+            "역할": [
+              "UI/UX Designer"
+            ],
+            "범위": [
+              "Design Research · Identity Design · UI Design · Prototype · Publishing(Html, Css, JavaScript)"
+            ],
+            "클라이언트": [
+              "Master's Thesis"
+            ],
+            "연도": [
+              "2023"
+            ],
+            "소개": [
+              "말로 설명하기 어려운 감정을 움직이는 그래픽으로 기록하는 감정 시각화 서비스입니다. / 기쁨·두려움·놀람·슬픔·혐오·분노, 여섯 가지 감정을 고유한 그래픽 모티프로 정의하고, / 사용자가 크기와 점·선·면을 조절해 자신만의 감정 그래픽을 만드는 경험을 설계했습니다."
+            ],
+            "글색": [
+              "흰색"
+            ],
+            "판색": [
+              "#111111"
+            ]
+          }
+        },
+        {
+          "kind": "와이드",
+          "half": false,
+          "images": [
+            "assets/content/feelora/02.jpg"
+          ],
+          "ref": "feelora/02.jpg",
+          "fields": {
+            "글": [
+              "108명을 대상으로 감정을 점선면으로 표현하는 실험을 진행하여, / 사람들이 기본 6가지 감정에 대해 느끼는 공통적인 조형적 형태를 정의했습니다."
+            ],
+            "글색": [
+              "어둡게"
+            ]
+          }
+        },
+        {
+          "kind": "와이드",
+          "half": 2,
+          "images": [
+            "assets/content/feelora/03.jpg"
+          ],
+          "ref": "feelora/03.jpg",
+          "fields": {
+            "라벨": [
+              "Logo"
+            ],
+            "글색": [
+              "흰색"
+            ]
+          }
+        },
+        {
+          "kind": "와이드",
+          "half": 2,
+          "images": [
+            "assets/content/feelora/04.jpg"
+          ],
+          "ref": "feelora/04.jpg",
+          "fields": {
+            "라벨": [
+              "Graphic Motif"
+            ],
+            "글색": [
+              "흰색"
+            ]
+          }
+        },
+        {
+          "kind": "와이드",
+          "half": 3,
+          "images": [
+            "assets/content/feelora/emotion_01.mp4"
+          ],
+          "ref": "feelora/emotion_01.mp4",
+          "fields": {
+            "라벨": [
+              "Joy"
+            ],
+            "글색": [
+              "흰색"
+            ]
+          }
+        },
+        {
+          "kind": "와이드",
+          "half": 3,
+          "images": [
+            "assets/content/feelora/emotion_02.mp4"
+          ],
+          "ref": "feelora/emotion_02.mp4",
+          "fields": {
+            "라벨": [
+              "Fear"
+            ],
+            "글색": [
+              "흰색"
+            ]
+          }
+        },
+        {
+          "kind": "와이드",
+          "half": 3,
+          "images": [
+            "assets/content/feelora/emotion_03.mp4"
+          ],
+          "ref": "feelora/emotion_03.mp4",
+          "fields": {
+            "라벨": [
+              "Surprise"
+            ],
+            "글색": [
+              "흰색"
+            ]
+          }
+        },
+        {
+          "kind": "와이드",
+          "half": 3,
+          "images": [
+            "assets/content/feelora/emotion_04.mp4"
+          ],
+          "ref": "feelora/emotion_04.mp4",
+          "fields": {
+            "라벨": [
+              "Sadness"
+            ],
+            "글색": [
+              "흰색"
+            ]
+          }
+        },
+        {
+          "kind": "와이드",
+          "half": 3,
+          "images": [
+            "assets/content/feelora/emotion_05.mp4"
+          ],
+          "ref": "feelora/emotion_05.mp4",
+          "fields": {
+            "라벨": [
+              "Disgust"
+            ],
+            "글색": [
+              "흰색"
+            ]
+          }
+        },
+        {
+          "kind": "와이드",
+          "half": 3,
+          "images": [
+            "assets/content/feelora/emotion_06.mp4"
+          ],
+          "ref": "feelora/emotion_06.mp4",
+          "fields": {
+            "라벨": [
+              "Anger"
+            ],
+            "글색": [
+              "흰색"
+            ]
+          }
+        },
+        {
+          "kind": "와이드",
+          "half": 2,
+          "images": [
+            "assets/content/feelora/05.jpg"
+          ],
+          "ref": "feelora/05.jpg",
+          "fields": {}
+        },
+        {
+          "kind": "와이드",
+          "half": 2,
+          "images": [
+            "assets/content/feelora/06.jpg"
+          ],
+          "ref": "feelora/06.jpg",
+          "fields": {}
+        },
+        {
+          "kind": "와이드",
+          "half": 2,
+          "images": [
+            "assets/content/feelora/07.mp4"
+          ],
+          "ref": "feelora/07.mp4",
+          "fields": {
+            "배경": [
+              "#000000"
+            ],
+            "폭": [
+              "43%"
+            ],
+            "비율": [
+              "1:1"
+            ]
+          }
+        },
+        {
+          "kind": "와이드",
+          "half": 2,
+          "images": [
+            "assets/content/feelora/08.mp4"
+          ],
+          "ref": "feelora/08.mp4",
+          "fields": {
+            "배경": [
+              "#000000"
+            ],
+            "폭": [
+              "43%"
+            ],
+            "비율": [
+              "1:1"
+            ]
+          }
+        },
+        {
+          "kind": "와이드",
+          "half": false,
+          "images": [
+            "assets/content/feelora/09.mp4"
+          ],
+          "ref": "feelora/09.mp4",
+          "fields": {
+            "배경": [
+              "#000000"
+            ],
+            "폭": [
+              "71.5%"
+            ],
+            "비율": [
+              "1840:896"
+            ],
+            "틀": [
+              "테두리"
+            ]
+          }
+        }
+      ],
+      "image": "assets/content/feelora/cover.jpg",
+      "hover": "assets/content/feelora/01.jpg"
+    },
+    {
+      "id": "05_project",
+      "title": "덧셈",
+      "category": "UIUX Design",
+      "year": "2023",
+      "client": "Plus Company",
+      "role": "Product Designer",
+      "period": "2023.08 — 2023.09",
+      "scope": "Concept Plan / UX/UI Design / Design System / Identity Design",
+      "folder": "plus",
+      "intro": "<p>세금 환급 서비스 덧셈의 MVP 출시를 위한 앱 디자인 프로젝트입니다. 서비스 컨셉과 와이어프레임부터 UX/UI, 디자인 시스템, 브랜드 아이덴티티까지 출시에 필요한 디자인 전반을 담당했습니다.</p>",
+      "sections": [],
+      "detail": [
+        {
+          "kind": "대표",
+          "half": false,
+          "images": [
+            "assets/content/plus/01.jpg"
+          ],
+          "ref": "plus/01.jpg",
+          "fields": {
+            "제목": [
+              "Plus Company MVP App Design"
+            ],
+            "태그": [
+              "Identity Design / UX/UI Design / Design System"
+            ],
+            "역할": [
+              "Product Design"
+            ],
+            "범위": [
+              "Concept Plan · Wireframe · UX/UI Design · Design System · Identity Design"
+            ],
+            "클라이언트": [
+              "Plus Company"
+            ],
+            "연도": [
+              "2023"
+            ],
+            "소개": [
+              "세금 환급을 돕는 세무사 매칭 서비스 덧셈의 MVP 출시를 목표로 프로덕트 디자인을 진행했습니다. / 환급금을 기준으로 세무사를 쉽게 고를 수 있도록 복잡한 탐색 흐름을 단순화하고, / 서비스 컨셉부터 UX/UI, 브랜드 아이덴티티까지 출시에 필요한 디자인 전반을 담당했습니다."
+            ],
+            "글색": [
+              "흰색"
+            ],
+            "판색": [
+              "#2E5A45"
+            ]
+          }
+        },
+        {
+          "kind": "와이드",
+          "half": false,
+          "images": [
+            "assets/content/plus/02.jpg"
+          ],
+          "ref": "plus/02.jpg",
+          "fields": {}
+        },
+        {
+          "kind": "와이드",
+          "half": false,
+          "images": [
+            "assets/content/plus/03.jpg"
+          ],
+          "ref": "plus/03.jpg",
+          "fields": {
+            "글": [
+              "MVP 개발 이후에도 지속적인 운영 및 고도화가 진행될 수 있도록 / 디자인 시스템을 제작하였습니다."
+            ],
+            "글색": [
+              "어둡게"
+            ]
+          }
+        },
+        {
+          "kind": "와이드",
+          "half": 2,
+          "images": [
+            "assets/content/plus/04.jpg"
+          ],
+          "ref": "plus/04.jpg",
+          "fields": {}
+        },
+        {
+          "kind": "와이드",
+          "half": 2,
+          "images": [
+            "assets/content/plus/05.jpg"
+          ],
+          "ref": "plus/05.jpg",
+          "fields": {}
+        }
+      ],
+      "image": "assets/content/plus/cover.jpg",
+      "hover": "assets/content/plus/01.jpg"
+    },
+    {
+      "id": "06_project",
+      "title": "DX 박물관",
+      "category": "UX Research",
+      "year": "2024",
+      "client": "ADR (SCOPUS 등재지 투고)",
+      "role": "Researcher",
+      "period": "2024",
+      "scope": "Research / Multimodal Blueprint / Strategy",
+      "folder": "dx-museum",
+      "intro": "<p>Z세대 관람객을 중심으로 박물관의 디지털 전환(DX) 전략을 연구한 프로젝트입니다. 관람 전·중·후의 경험을 멀티모달 서비스 청사진으로 분석해, 디지털 기술이 개입할 접점과 전략 방향을 제안했습니다.</p>",
+      "sections": [],
+      "detail": [
+        {
+          "kind": "대표",
+          "half": false,
+          "images": [
+            "assets/content/dx-museum/01.jpg"
+          ],
+          "ref": "dx-museum/01.jpg",
+          "fields": {
+            "제목": [
+              "DX Museum Strategy Research"
+            ],
+            "태그": [
+              "UX Research / Service Blueprint / Strategy"
+            ],
+            "역할": [
+              "Researcher"
+            ],
+            "범위": [
+              "IDI · Co-creation Workshop · Survey · Statistical Analysis · Prototype · Expert Interview · Service Blueprint"
+            ],
+            "클라이언트": [
+              "ADR (SCOPUS 등재지 투고)"
+            ],
+            "연도": [
+              "2024"
+            ],
+            "소개": [
+              "박물관의 핵심 고객인 Z세대를 중심으로 관람 전반의 DX(Digital Transformation) 경험을 / 제고할 수 있는 방향을 모색했습니다. 두 페르소나를 중심으로 다양한 감각의 확장을 통해 / 새로운 경험을 제공하여, 즐겁게 전시를 관람 할 수 있는 서비스 경험 디자인 전략을 제안했습니다."
+            ],
+            "판색": [
+              "#EFE9E1"
+            ]
+          }
+        },
+        {
+          "kind": "와이드",
+          "half": false,
+          "images": [
+            "assets/content/dx-museum/02.jpg"
+          ],
+          "ref": "dx-museum/02.jpg",
+          "fields": {
+            "글": [
+              "Z세대 관람객 인터뷰와 워크숍을 통해 / DX 박물관 관람 여정에서의 불편과 기대를 도출했습니다."
+            ]
+          }
+        },
+        {
+          "kind": "와이드",
+          "half": 2,
+          "images": [
+            "assets/content/dx-museum/03.jpg"
+          ],
+          "ref": "dx-museum/03.jpg",
+          "fields": {}
+        },
+        {
+          "kind": "와이드",
+          "half": 2,
+          "images": [
+            "assets/content/dx-museum/04.jpg"
+          ],
+          "ref": "dx-museum/04.jpg",
+          "fields": {}
+        },
+        {
+          "kind": "와이드",
+          "half": 2,
+          "images": [
+            "assets/content/dx-museum/05.jpg"
+          ],
+          "ref": "dx-museum/05.jpg",
+          "fields": {}
+        },
+        {
+          "kind": "와이드",
+          "half": 2,
+          "images": [
+            "assets/content/dx-museum/06.jpg"
+          ],
+          "ref": "dx-museum/06.jpg",
+          "fields": {}
+        },
+        {
+          "kind": "와이드",
+          "half": false,
+          "images": [
+            "assets/content/dx-museum/08.jpg"
+          ],
+          "ref": "dx-museum/08.jpg",
+          "fields": {
+            "글": [
+              "결과적으로 관람 전·중·후 / 단계별 멀티모달 / 서비스 청사진을 기반으로 / DX 박물관 전략 프레임워크를 / 제안했습니다."
+            ],
+            "글색": [
+              "어둡게"
+            ],
+            "모바일 영역": [
+              "30 / 100"
+            ]
+          }
+        }
+      ],
+      "image": "assets/content/dx-museum/cover.jpg",
+      "hover": "assets/content/dx-museum/01.jpg"
+    }
+  ]
+}
